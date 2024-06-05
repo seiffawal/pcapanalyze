@@ -23,6 +23,4 @@ Compatibility and Usage:
     TShark, a command-line network protocol analyzer, is required to run the script and must be installed and accessible within the command-line environment.
     Users need to provide the full path to the PCAP file as an input parameter when running the script.
 
-The GitHub repository provides a reliable and versatile solution for network analysis and file download detection. It offers a comprehensive script that enhances network security, aids in incident response, and streamlines analysis workflows. Network administrators and security professionals can leverage this script to strengthen their network defenses and promptly respond to potential security threats.
 
-#NetworkAnalysis #Security #IncidentResponse #Automation #PowerShell #BashScripting #NetworkSecurity
